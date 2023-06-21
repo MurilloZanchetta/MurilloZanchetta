@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://github.com/MurilloZanchetta/MurilloZanchetta/assets/123953912/70e4f206-7f37-4ee0-8dd4-fb3a26d3bfd9)
+
+
 <!--
 **MurilloZanchetta/MurilloZanchetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
